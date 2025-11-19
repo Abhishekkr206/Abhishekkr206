@@ -6,4 +6,4 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,tailwind,redux,nodejs,express,mongodb,redis,docker,react,nextjs,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,tailwind,redux,express,mongodb,redis,docker,react,nextjs)](https://skillicons.dev)
