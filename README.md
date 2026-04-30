@@ -2,7 +2,7 @@
 
 ![ascii-art](https://raw.githubusercontent.com/Abhishekkr206/Abhishekkr206/main/ascii-art.png)
 
-**Full-Stack Developer | Currently learning TypeScript**
+**Full-Stack Developer | Currently learning Applied AI**
 
 ## Tech Stack
 
